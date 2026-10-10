@@ -1819,7 +1819,11 @@
     "url": "https://ascii.rest/",
     "name": "Ascii Rest",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "ascii",
+      "animated",
+      "art"
+    ],
     "desc": {
       "es": "Arte ASCII animado para páginas web",
       "en": "animated ascii art for web pages"
@@ -1831,7 +1835,11 @@
     "url": "https://www.awwwards.com",
     "name": "Awwwards",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "awards",
+      "gallery",
+      "web design"
+    ],
     "desc": {
       "es": "Premios que celebran la excelencia del oficio web digital.",
       "en": "Awards celebrating exceptional digital web craft."
@@ -1843,7 +1851,11 @@
     "url": "https://www.cosmos.so",
     "name": "Cosmos",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "moodboard",
+      "inspiration",
+      "creative"
+    ],
     "desc": {
       "es": "Moodboarding visual y motor de inspiración creativa.",
       "en": "Visual moodboarding and creative inspiration engine."
@@ -1855,7 +1867,11 @@
     "url": "https://layers.to",
     "name": "Layers",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "portfolio",
+      "sharing",
+      "design"
+    ],
     "desc": {
       "es": "Plataforma para compartir trabajo de diseño públicamente.",
       "en": "Platform for sharing design work publicly."
@@ -1867,7 +1883,11 @@
     "url": "https://minimal.gallery",
     "name": "Minimal Gallery",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "minimalist",
+      "gallery",
+      "web design"
+    ],
     "desc": {
       "es": "Colección de sitios web minimalistas y contenidos.",
       "en": "Showcase of minimal and restrained websites."
@@ -1879,7 +1899,11 @@
     "url": "https://www.seesaw.website",
     "name": "SEESAW",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "inspiration",
+      "sections",
+      "reference"
+    ],
     "desc": {
       "es": "Inspiración de diseño organizada por sección de página.",
       "en": "Design inspiration organized by page section."
@@ -1891,7 +1915,11 @@
     "url": "https://supahero.io",
     "name": "Supahero",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "hero",
+      "sections",
+      "gallery"
+    ],
     "desc": {
       "es": "Colección curada de secciones hero de sitios web.",
       "en": "Curated collection of website hero sections."
@@ -1903,7 +1931,11 @@
     "url": "https://www.imageory.in",
     "name": "Imageory",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "images",
+      "prompts",
+      "gallery"
+    ],
     "desc": {
       "es": "Galería visual que combina imágenes con prompts.",
       "en": "Visual gallery pairing images with prompts."
@@ -1915,7 +1947,11 @@
     "url": "https://backgrounds.supply",
     "name": "Backgrounds Supply",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "backgrounds",
+      "hand-made",
+      "assets"
+    ],
     "desc": {
       "es": "Fondos web hechos a mano y listos para usar.",
       "en": "Handcrafted website backgrounds ready to use."
@@ -1941,7 +1977,11 @@
     "url": "https://www.details.so",
     "name": "Details",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "micro-interactions",
+      "details",
+      "reference"
+    ],
     "desc": {
       "es": "Análisis de micro-interacciones de los mejores productos digitales.",
       "en": "Micro-interaction analysis of top digital products."
@@ -1953,7 +1993,11 @@
     "url": "https://sombra.design",
     "name": "Sombra",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "dark mode",
+      "gallery",
+      "ui"
+    ],
     "desc": {
       "es": "Muestra de interfaces web en modo oscuro.",
       "en": "Showcase of dark-mode website interfaces."
@@ -1965,7 +2009,11 @@
     "url": "https://dribbble.com",
     "name": "Dribbble",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "community",
+      "concepts",
+      "design"
+    ],
     "desc": {
       "es": "Comunidad global que comparte conceptos de diseño.",
       "en": "Global community sharing design concepts."
@@ -1977,7 +2025,11 @@
     "url": "https://www.behance.net",
     "name": "Behance",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "portfolio",
+      "adobe",
+      "community"
+    ],
     "desc": {
       "es": "Vitrina de Adobe para portafolios creativos.",
       "en": "Adobe showcase for creative portfolios."
@@ -1989,7 +2041,11 @@
     "url": "https://recent.design",
     "name": "Recent Design",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "curated",
+      "web design",
+      "weekly"
+    ],
     "desc": {
       "es": "Selección semanal de sitios web premiables.",
       "en": "Weekly selection of award-worthy websites."
@@ -2001,7 +2057,11 @@
     "url": "https://navbar.design",
     "name": "navbar.design",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "navbar",
+      "patterns",
+      "gallery"
+    ],
     "desc": {
       "es": "Galería curada de patrones de barras de navegación.",
       "en": "Curated gallery of navigation bar patterns."
@@ -2013,7 +2073,11 @@
     "url": "https://footer.design",
     "name": "footer.design",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "footers",
+      "patterns",
+      "gallery"
+    ],
     "desc": {
       "es": "Galería curada de footers web creativos.",
       "en": "Curated gallery of creative website footers."
@@ -2039,7 +2103,11 @@
     "url": "https://www.siteinspire.com",
     "name": "SiteInspire",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "gallery",
+      "web design",
+      "curated"
+    ],
     "desc": {
       "es": "Muestra del mejor oficio en diseño web.",
       "en": "Showcase of fine web design craft."
@@ -2065,7 +2133,11 @@
     "url": "https://uxarchive.com",
     "name": "UX Archive",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "onboarding",
+      "flows",
+      "mobile"
+    ],
     "desc": {
       "es": "Archivo histórico de flujos de onboarding móviles.",
       "en": "Historical archive of mobile onboarding flows."
@@ -2077,7 +2149,11 @@
     "url": "https://screenlane.com",
     "name": "Screenlane",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "screens",
+      "gallery",
+      "search"
+    ],
     "desc": {
       "es": "Galería de pantallas de interfaz con búsqueda.",
       "en": "Searchable gallery of interface screens."
@@ -2089,7 +2165,11 @@
     "url": "https://www.flowbase.co",
     "name": "Flowbase",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "components",
+      "premium",
+      "patterns"
+    ],
     "desc": {
       "es": "Componentes UI premium y patrones de interacción.",
       "en": "Premium UI components and interaction patterns."
@@ -2101,7 +2181,11 @@
     "url": "https://hoverstat.es",
     "name": "Hover States",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "hover",
+      "interactive",
+      "gallery"
+    ],
     "desc": {
       "es": "Muestra de diseño web interactivo e innovador.",
       "en": "Showcase of innovative interactive web design."
@@ -2113,7 +2197,11 @@
     "url": "https://www.saasframe.io",
     "name": "SaaSFrame",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "saas",
+      "screenshots",
+      "marketing"
+    ],
     "desc": {
       "es": "Cientos de capturas de páginas de marketing SaaS.",
       "en": "Hundreds of SaaS marketing page screenshots."
@@ -2139,7 +2227,11 @@
     "url": "https://pttrns.com",
     "name": "Pttrns",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "mobile",
+      "patterns",
+      "directory"
+    ],
     "desc": {
       "es": "Directorio de patrones de interfaz de usuario móvil.",
       "en": "Directory of mobile user interface patterns."
@@ -2151,7 +2243,11 @@
     "url": "https://onepagelove.com",
     "name": "One Page Love",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "one page",
+      "gallery",
+      "curated"
+    ],
     "desc": {
       "es": "Muestra de sitios de una sola página.",
       "en": "Showcase of single-page website designs."
@@ -2163,7 +2259,11 @@
     "url": "https://www.designspiration.com",
     "name": "Designspiration",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "search",
+      "visual",
+      "art"
+    ],
     "desc": {
       "es": "Plataforma de búsqueda creativa de arte visual.",
       "en": "Creative search platform for visual art."
@@ -2175,7 +2275,11 @@
     "url": "https://bestwebsite.gallery",
     "name": "Best Website Gallery",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "gallery",
+      "curated",
+      "web design"
+    ],
     "desc": {
       "es": "Archivo curado de sitios web excepcionales.",
       "en": "Curated archive of exceptional websites."
@@ -2187,7 +2291,11 @@
     "url": "https://theinspirationgrid.com",
     "name": "Inspiration Grid",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "magazine",
+      "visual",
+      "gallery"
+    ],
     "desc": {
       "es": "Revista online que celebra el diseño visual creativo.",
       "en": "Online magazine celebrating creative visual design."
@@ -2199,7 +2307,11 @@
     "url": "https://scrnshts.club",
     "name": "Scrnshts",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "app store",
+      "screenshots",
+      "curated"
+    ],
     "desc": {
       "es": "Diseños de capturas de App Store curados.",
       "en": "Curated App Store screenshot designs."
@@ -2211,7 +2323,11 @@
     "url": "https://www.are.na",
     "name": "Are.na",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "research",
+      "bookmarks",
+      "collaborative"
+    ],
     "desc": {
       "es": "Plataforma colaborativa de investigación y marcadores visuales.",
       "en": "Collaborative research and visual bookmarking platform."
@@ -2223,7 +2339,11 @@
     "url": "https://www.appinspo.com",
     "name": "Appinspo",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "mobile",
+      "apps",
+      "gallery"
+    ],
     "desc": {
       "es": "Galería curada de diseño de aplicaciones móviles.",
       "en": "Curated mobile application design gallery."
@@ -2235,7 +2355,11 @@
     "url": "https://www.darkmodedesign.com",
     "name": "Dark Mode Design",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "dark mode",
+      "gallery",
+      "web design"
+    ],
     "desc": {
       "es": "Muestra que celebra los sitios web en modo oscuro.",
       "en": "Showcase celebrating dark-mode websites."
@@ -2247,7 +2371,11 @@
     "url": "https://www.pinterest.com",
     "name": "Pinterest",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "discovery",
+      "visual",
+      "ideas"
+    ],
     "desc": {
       "es": "Motor de descubrimiento visual para ideas creativas.",
       "en": "Visual discovery engine for creative ideas."
@@ -2259,7 +2387,11 @@
     "url": "https://posts.design",
     "name": "posts.design",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "social",
+      "graphics",
+      "archive"
+    ],
     "desc": {
       "es": "Archivo curado de diseño de gráficos para redes sociales.",
       "en": "Curated social media graphic design archive."
@@ -2271,7 +2403,11 @@
     "url": "https://loadmo.re",
     "name": "loadmo.re",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "mobile",
+      "experimental",
+      "gallery"
+    ],
     "desc": {
       "es": "Galería de diseños web móviles experimentales.",
       "en": "Gallery of experimental mobile website designs."
@@ -2283,7 +2419,11 @@
     "url": "https://www.inspora.design",
     "name": "inspora.design",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "archive",
+      "contemporary",
+      "web design"
+    ],
     "desc": {
       "es": "Archivo de diseño web visual contemporáneo.",
       "en": "Archive of contemporary visual web design."
@@ -2295,7 +2435,11 @@
     "url": "https://desengs.com",
     "name": "desengs.com",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "portfolios",
+      "design engineering",
+      "stories"
+    ],
     "desc": {
       "es": "Directorio de portafolios y relatos de ingeniería de diseño.",
       "en": "Directory of design engineering portfolios and lore."
@@ -2321,7 +2465,11 @@
     "url": "https://designeng.tools",
     "name": "designeng.tools",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "design engineer",
+      "tools",
+      "curated"
+    ],
     "desc": {
       "es": "Herramientas, recursos e inspiración de ingeniería de diseño curados.",
       "en": "Curated design engineering tools, resources, and inspiration."
@@ -2333,7 +2481,11 @@
     "url": "https://bestdesignsonx.com",
     "name": "bestdesignsonx.com",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "twitter",
+      "designers",
+      "curated"
+    ],
     "desc": {
       "es": "Creadores y publicaciones de diseño destacados en X.",
       "en": "Curated design-forward creators and posts on X."
@@ -2345,7 +2497,11 @@
     "url": "https://designbookmark.com",
     "name": "Design Bookmark",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "directory",
+      "bookmarks",
+      "design"
+    ],
     "desc": {
       "es": "Directorio de recursos y enlaces de diseño.",
       "en": "Directory of design resources and links."
@@ -2357,7 +2513,11 @@
     "url": "https://curations.supply",
     "name": "Curations",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "curated",
+      "resources",
+      "design"
+    ],
     "desc": {
       "es": "Biblioteca de recursos digitales de diseño curados.",
       "en": "Library of curated digital design assets."
@@ -2369,7 +2529,11 @@
     "url": "https://motionimo.xyz",
     "name": "Motionimo",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "motion",
+      "clips",
+      "library"
+    ],
     "desc": {
       "es": "Amplia biblioteca de clips de motion design.",
       "en": "Extensive library of motion design clips."
@@ -2381,7 +2545,11 @@
     "url": "https://before.click",
     "name": "before.click",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "conversion",
+      "apps",
+      "screenshots"
+    ],
     "desc": {
       "es": "Muestra de conceptos de capturas de apps de alta conversión.",
       "en": "Showcase of high-converting app screenshot concepts."
@@ -2407,7 +2575,11 @@
     "url": "https://designengineer.tools",
     "name": "designengineer.tools",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "design engineer",
+      "tools",
+      "curated"
+    ],
     "desc": {
       "es": "Herramientas esenciales para ingenieros de diseño.",
       "en": "Essential tools tailored for design engineers."
@@ -2419,7 +2591,11 @@
     "url": "https://www.insposite.com",
     "name": "Insposite",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "directory",
+      "reference",
+      "tools"
+    ],
     "desc": {
       "es": "Directorio de referencias y herramientas de diseño.",
       "en": "Directory of design references and tools."
@@ -2459,7 +2635,11 @@
     "url": "https://greatstuff.fyi",
     "name": "GreatStuff",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "tools",
+      "creative",
+      "archive"
+    ],
     "desc": {
       "es": "Archivo cuidadosamente seleccionado de herramientas creativas.",
       "en": "Carefully vetted archive of creative tools."
@@ -2471,7 +2651,11 @@
     "url": "https://greatapps.fyi",
     "name": "Great Apps",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "ios",
+      "apps",
+      "weekly"
+    ],
     "desc": {
       "es": "Galería semanal de apps iOS excepcionales.",
       "en": "Weekly gallery highlighting exceptional iOS apps."
@@ -2483,7 +2667,11 @@
     "url": "https://curated.domains",
     "name": "Curated Domains",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "domains",
+      "brands",
+      "creative"
+    ],
     "desc": {
       "es": "Marcas que usan nombres de dominio creativos.",
       "en": "Brands using creative top-level domain names."
@@ -2495,7 +2683,11 @@
     "url": "https://sections.wtf",
     "name": "Sections.wtf",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "sections",
+      "heroes",
+      "gallery"
+    ],
     "desc": {
       "es": "Galería real de secciones y heroes web.",
       "en": "Real-world website section and hero gallery."
@@ -2507,7 +2699,11 @@
     "url": "https://browse.cool",
     "name": "Browse.cool",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "gallery",
+      "web design",
+      "curated"
+    ],
     "desc": {
       "es": "Sitios elegidos por su excepcional tacto digital.",
       "en": "Websites chosen for exceptional tactile feel."
@@ -2519,7 +2715,11 @@
     "url": "https://folios.gallery",
     "name": "Folios Gallery",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "portfolios",
+      "designers",
+      "directory"
+    ],
     "desc": {
       "es": "Directorio selecto de portafolios de diseñadores destacados.",
       "en": "Selective directory of outstanding designer portfolios."
@@ -2531,7 +2731,11 @@
     "url": "https://wwwtf.site",
     "name": "wwwtf.site",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "experimental",
+      "web",
+      "gallery"
+    ],
     "desc": {
       "es": "Rincones web excéntricos e interactivos.",
       "en": "Quirky and experimental interactive web corners."
@@ -2543,7 +2747,11 @@
     "url": "https://www.early.tools",
     "name": "Early",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "products",
+      "discovery",
+      "early stage"
+    ],
     "desc": {
       "es": "Plataforma de descubrimiento de productos de software en etapa temprana.",
       "en": "Discovery platform for early-stage software products."
@@ -2583,7 +2791,11 @@
     "url": "https://gallery.jessyin.world",
     "name": "Jessy In's Gallery",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "moodboard",
+      "collaborative",
+      "visual"
+    ],
     "desc": {
       "es": "Moodboard colaborativo de hallazgos visuales únicos.",
       "en": "Collaborative moodboard of unique visual finds."
@@ -2595,7 +2807,11 @@
     "url": "https://www.wallofportfolios.in",
     "name": "Wall of Portfolios",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "portfolios",
+      "design engineering",
+      "product"
+    ],
     "desc": {
       "es": "Vitrinas de portafolios de ingeniería de diseño y producto.",
       "en": "Design engineering and product portfolio showcases."
@@ -2607,7 +2823,11 @@
     "url": "https://detail.design",
     "name": "Detail Design",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "micro-interactions",
+      "software",
+      "archive"
+    ],
     "desc": {
       "es": "Archivo de micro-interacciones de software bien pensadas.",
       "en": "Archive of thoughtful software micro-interactions."
@@ -2619,7 +2839,11 @@
     "url": "https://betwnstudios.com",
     "name": "Betwn Studios",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "studio",
+      "saas",
+      "web design"
+    ],
     "desc": {
       "es": "Estudio que crea experiencias web modernas para SaaS.",
       "en": "Studio crafting modern SaaS web experiences."
@@ -2645,7 +2869,11 @@
     "url": "https://bestsaaswebdesigns.com",
     "name": "Best SaaS Web Designs",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "saas",
+      "gallery",
+      "web design"
+    ],
     "desc": {
       "es": "Galería de inspiración en diseño de sitios SaaS.",
       "en": "Curated inspiration gallery of SaaS website design."
@@ -2657,7 +2885,11 @@
     "url": "https://www.a1.gallery",
     "name": "A1",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "gallery",
+      "web design",
+      "inspiration"
+    ],
     "desc": {
       "es": "Galería de inspiración en diseño web.",
       "en": "Website design inspiration gallery."
@@ -2669,7 +2901,11 @@
     "url": "https://figma.com",
     "name": "Figma",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "design",
+      "prototyping",
+      "collaborative"
+    ],
     "desc": {
       "es": "Plataforma colaborativa de diseño de interfaces y prototipado.",
       "en": "Collaborative interface design and prototyping platform."
@@ -2681,7 +2917,11 @@
     "url": "https://framer.com",
     "name": "Framer",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "no-code",
+      "web design",
+      "prototyping"
+    ],
     "desc": {
       "es": "Lienzo visual para diseñar y publicar sitios web.",
       "en": "Visual canvas designing and publishing websites."
@@ -2722,7 +2962,11 @@
     "url": "https://spline.design",
     "name": "Spline",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "3d",
+      "physics",
+      "browser"
+    ],
     "desc": {
       "es": "Software de diseño 3D en el navegador con física.",
       "en": "Browser-based 3D design software with physics."
@@ -2734,7 +2978,11 @@
     "url": "https://www.interfacecraft.dev",
     "name": "Interface Craft",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "articles",
+      "craft",
+      "interfaces"
+    ],
     "desc": {
       "es": "Artículos sobre el oficio de las interfaces digitales modernas.",
       "en": "Articles exploring modern digital interface craftsmanship."
@@ -2760,7 +3008,11 @@
     "url": "https://uiw.tf",
     "name": "UIWTF",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "experimental",
+      "patterns",
+      "ui"
+    ],
     "desc": {
       "es": "Muestra de patrones de interfaz web experimentales.",
       "en": "Showcase of experimental web interface patterns."
@@ -2772,7 +3024,10 @@
     "url": "https://lab01.dev",
     "name": "Lab01",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "ui",
+      "experiments"
+    ],
     "desc": {
       "es": "Experimentos de UI refinados de un estudio.",
       "en": "Refined UI experiments from a studio."
@@ -2798,7 +3053,11 @@
     "url": "https://uiplaybook.dev",
     "name": "UI Playbook",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "states",
+      "components",
+      "guide"
+    ],
     "desc": {
       "es": "Guía de los estados más comunes de los componentes UI.",
       "en": "Guide to common UI component states."
@@ -2810,7 +3069,11 @@
     "url": "https://refactoringui.com",
     "name": "Refactoring UI",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "guide",
+      "practical",
+      "ui"
+    ],
     "desc": {
       "es": "Guía práctica de diseño para construir interfaces.",
       "en": "Practical design guide for building interfaces."
@@ -2822,7 +3085,11 @@
     "url": "https://practicaltypography.com",
     "name": "Practical Typography",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "typography",
+      "book",
+      "rules"
+    ],
     "desc": {
       "es": "Libro esencial sobre reglas tipográficas y diseño.",
       "en": "Essential book covering typographic rules and layout."
@@ -2834,7 +3101,11 @@
     "url": "https://web.dev",
     "name": "web.dev",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "performance",
+      "web standards",
+      "guide"
+    ],
     "desc": {
       "es": "Consejos sobre rendimiento web y estándares modernos.",
       "en": "Guidance on web performance and modern standards."
@@ -2846,7 +3117,11 @@
     "url": "https://inclusive-components.design",
     "name": "Inclusive Components",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "accessibility",
+      "patterns",
+      "components"
+    ],
     "desc": {
       "es": "Biblioteca de patrones que enseña diseño de componentes accesibles.",
       "en": "Pattern library teaching accessible component design."
@@ -2858,7 +3133,11 @@
     "url": "https://joshwcomeau.com",
     "name": "Josh Comeau",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "tutorials",
+      "css",
+      "interactive"
+    ],
     "desc": {
       "es": "Tutoriales interactivos que desglosan el funcionamiento de CSS.",
       "en": "Interactive tutorials breaking down CSS mechanics."
@@ -2870,7 +3149,11 @@
     "url": "https://design-books.com",
     "name": "Design Books",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "books",
+      "directory",
+      "design"
+    ],
     "desc": {
       "es": "Directorio de literatura de diseño esencial por disciplina.",
       "en": "Directory of essential design literature by discipline."
@@ -2882,7 +3165,11 @@
     "url": "https://learn-kernels.com",
     "name": "Learn Kernels",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "gpu",
+      "kernels",
+      "interactive"
+    ],
     "desc": {
       "es": "Guía interactiva sobre programación de kernels de GPU.",
       "en": "Interactive guide exploring GPU kernel programming."
@@ -2894,7 +3181,11 @@
     "url": "https://designsystemchecklist.com",
     "name": "Design System Checklist",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "design systems",
+      "checklist",
+      "production"
+    ],
     "desc": {
       "es": "Lista de verificación exhaustiva para design systems en producción.",
       "en": "Comprehensive checklist for production design systems."
@@ -2920,7 +3211,11 @@
     "url": "https://goodui.org",
     "name": "Good UI",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "patterns",
+      "research",
+      "ui"
+    ],
     "desc": {
       "es": "Patrones de diseño UI basados en evidencia y datos.",
       "en": "Evidence-based UI design patterns and data."
@@ -2932,7 +3227,11 @@
     "url": "https://abduzeedo.com",
     "name": "Abduzeedo",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "blog",
+      "inspiration",
+      "daily"
+    ],
     "desc": {
       "es": "Blog de diseño diario con inspiración visual.",
       "en": "Daily design blog sharing visual inspiration."
@@ -2944,7 +3243,11 @@
     "url": "https://uxdesign.cc",
     "name": "UX Collective",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "essays",
+      "ux",
+      "publication"
+    ],
     "desc": {
       "es": "Publicación curada con ensayos críticos de UX.",
       "en": "Curated publication sharing critical UX essays."
@@ -2956,7 +3259,11 @@
     "url": "https://www.smashingmagazine.com",
     "name": "Smashing Magazine",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "blog",
+      "web",
+      "resources"
+    ],
     "desc": {
       "es": "Recurso de confianza para diseñadores y desarrolladores web.",
       "en": "Reliable resource for web designers and developers."
@@ -2968,7 +3275,11 @@
     "url": "https://tympanus.net/codrops/",
     "name": "Codrops",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "experiments",
+      "frontend",
+      "tutorials"
+    ],
     "desc": {
       "es": "Blog de experimentos frontend creativos y tutoriales.",
       "en": "Blog publishing creative frontend experiments and tutorials."
@@ -2980,7 +3291,11 @@
     "url": "https://muz.li",
     "name": "Muzli",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "digest",
+      "trends",
+      "daily"
+    ],
     "desc": {
       "es": "Digest diario con las últimas tendencias de diseño.",
       "en": "Daily digest curating latest design trends."
@@ -2992,7 +3307,11 @@
     "url": "https://boxesandarrows.com",
     "name": "Boxes and Arrows",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "information architecture",
+      "magazine",
+      "ia"
+    ],
     "desc": {
       "es": "Revista dedicada al oficio de la arquitectura de información.",
       "en": "Journal dedicated to information architecture craft."
@@ -3004,7 +3323,11 @@
     "url": "https://www.designernews.co",
     "name": "Designer News",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "community",
+      "news",
+      "design"
+    ],
     "desc": {
       "es": "Noticiario comunitario con historias de diseño.",
       "en": "Community-driven news feed highlighting design stories."
@@ -3016,7 +3339,11 @@
     "url": "https://www.webdesignerdepot.com",
     "name": "Web Designer Depot",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "publication",
+      "standards",
+      "tools"
+    ],
     "desc": {
       "es": "Publicación de diseño que cubre estándares y herramientas web.",
       "en": "Design publication covering web standards and tools."
@@ -3028,7 +3355,11 @@
     "url": "https://designmodo.com",
     "name": "Designmodo",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "articles",
+      "tools",
+      "web design"
+    ],
     "desc": {
       "es": "Artículos y herramientas sobre diseño web.",
       "en": "Articles and tools covering web design."
@@ -3040,7 +3371,11 @@
     "url": "https://99designs.com/discover/",
     "name": "99designs Discover",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "blog",
+      "branding",
+      "ideas"
+    ],
     "desc": {
       "es": "Blog de diseño con ideas de branding creativo.",
       "en": "Design blog exploring creative branding insights."
@@ -3052,7 +3387,11 @@
     "url": "https://interfaces.dev",
     "name": "Interfaces",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "publication",
+      "monthly",
+      "interfaces"
+    ],
     "desc": {
       "es": "Publicación digital mensual que explora las interfaces.",
       "en": "Monthly digital publication exploring digital interfaces."
@@ -3064,7 +3403,11 @@
     "url": "https://www.makingsoftware.com",
     "name": "Making Software",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "essays",
+      "tools",
+      "design"
+    ],
     "desc": {
       "es": "Ensayos sobre cómo las herramientas dan forma al diseño.",
       "en": "Essays examining how tools shape design."
@@ -3076,7 +3419,11 @@
     "url": "https://visualrambling.space",
     "name": "Visual Rambling",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "essays",
+      "personal",
+      "ui"
+    ],
     "desc": {
       "es": "Ensayos visuales personales sobre diseño de interfaces.",
       "en": "Personal visual essays exploring interface design."
@@ -3088,7 +3435,11 @@
     "url": "https://www.degreeless.design",
     "name": "Degreeless Design",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "roadmap",
+      "product design",
+      "curated"
+    ],
     "desc": {
       "es": "Hoja de ruta curada para dominar el diseño de producto.",
       "en": "Curated roadmap for mastering product design."
@@ -3129,7 +3480,11 @@
     "url": "https://ui.land",
     "name": "UI Land",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "interviews",
+      "design engineering",
+      "people"
+    ],
     "desc": {
       "es": "Entrevistas con ingenieros de diseño de primer nivel.",
       "en": "Interviews with leading design engineers on craft."
@@ -3141,7 +3496,11 @@
     "url": "https://lawsofux.com",
     "name": "Laws of UX",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "psychology",
+      "usability",
+      "principles"
+    ],
     "desc": {
       "es": "Principios psicológicos que influyen en la usabilidad de las interfaces.",
       "en": "Psychological principles that influence interface usability."
@@ -3153,7 +3512,11 @@
     "url": "https://userinterface.wiki",
     "name": "User Interface Wiki",
     "category": "inspiration",
-    "tags": [],
+    "tags": [
+      "knowledge base",
+      "guidelines",
+      "ui"
+    ],
     "desc": {
       "es": "Base de conocimiento con directrices y reglas de interfaz.",
       "en": "Knowledge base documenting interface guidelines and rules."
@@ -3196,7 +3559,11 @@
     "url": "https://www.rewampui.com",
     "name": "RewampUI",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "ui",
+      "components",
+      "copy paste"
+    ],
     "desc": {
       "es": "Panel de vitrina de componentes UI listos para usar.",
       "en": "Component showcase dashboard of ready-made UI."
@@ -3237,7 +3604,11 @@
     "url": "https://number-flow.barvian.me",
     "name": "NumberFlow",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "numbers",
+      "transition",
+      "animation"
+    ],
     "desc": {
       "es": "Transiciones de números suaves en frameworks modernos.",
       "en": "Smooth number transitions across modern frameworks."
@@ -3348,7 +3719,11 @@
     "url": "https://coss.com/ui/",
     "name": "coss ui",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "copy paste",
+      "base ui",
+      "components"
+    ],
     "desc": {
       "es": "Componentes para copiar y pegar construidos sobre Base UI.",
       "en": "Copy-paste components built on Base UI."
@@ -3360,7 +3735,11 @@
     "url": "https://butter-nav.vercel.app",
     "name": "Butter Nav",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "nav",
+      "mega menu",
+      "morph"
+    ],
     "desc": {
       "es": "Mega-menú con transiciones fluidas de morphing de layout.",
       "en": "Mega-menu featuring fluid layout morphing transitions."
@@ -3571,7 +3950,11 @@
     "url": "https://easyui.pro",
     "name": "Easy UI",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "copy paste",
+      "components",
+      "ui"
+    ],
     "desc": {
       "es": "Biblioteca de componentes para copiar y pegar y construir rápido.",
       "en": "Copy-paste component library for rapid building."
@@ -3627,7 +4010,11 @@
     "url": "https://beautifului.dev",
     "name": "Beautiful UI",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "components",
+      "ui",
+      "copy paste"
+    ],
     "desc": {
       "es": "Componentes pulidos para copiar y pegar en apps web.",
       "en": "Polished copy-paste components for web applications."
@@ -3724,7 +4111,11 @@
     "url": "https://nexui.dev",
     "name": "Nex UI",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "ui",
+      "components",
+      "extensible"
+    ],
     "desc": {
       "es": "Biblioteca de componentes extensible para startups modernas.",
       "en": "Extensible component library for modern startups."
@@ -3736,7 +4127,11 @@
     "url": "https://ninna-ui.dev",
     "name": "Ninja UI",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "components",
+      "ui",
+      "lightweight"
+    ],
     "desc": {
       "es": "Componentes UI ligeros para sitios rápidos.",
       "en": "Lightweight UI components for fast websites."
@@ -3777,7 +4172,11 @@
     "url": "https://transitions.dev",
     "name": "Transitions",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "css",
+      "easings",
+      "transitions"
+    ],
     "desc": {
       "es": "Recetas y easings de transiciones CSS curados.",
       "en": "Curated CSS transition recipes and easings."
@@ -3804,7 +4203,11 @@
     "url": "https://oneko.dhrv.pw",
     "name": "Oneko",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "cursor",
+      "cat",
+      "fun"
+    ],
     "desc": {
       "es": "Gato pixel que persigue el cursor.",
       "en": "Pixel cat companion that chases cursor."
@@ -3830,7 +4233,11 @@
     "url": "https://annnimate.com",
     "name": "Annnimate",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "gsap",
+      "motion",
+      "components"
+    ],
     "desc": {
       "es": "Componentes de motion con GSAP listos para producción.",
       "en": "GSAP motion components ready for production."
@@ -3856,7 +4263,11 @@
     "url": "https://scrit.to",
     "name": "Scritto",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "text",
+      "rolling",
+      "components"
+    ],
     "desc": {
       "es": "Biblioteca de componentes de transición de texto con personajes rodantes.",
       "en": "Rolling character text transition component library."
@@ -3868,7 +4279,11 @@
     "url": "https://www.ogimagecn.com",
     "name": "ogimagecn",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "og",
+      "satori",
+      "images"
+    ],
     "desc": {
       "es": "Componentes de imágenes Open Graph construidos con Satori.",
       "en": "Open Graph image components using Satori."
@@ -3880,7 +4295,11 @@
     "url": "https://www.tripwire.sh/dither-kit/",
     "name": "Dither Kit",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "dither",
+      "graphics",
+      "retro"
+    ],
     "desc": {
       "es": "Componentes de gráficos con tramado retro.",
       "en": "Dithered chart components with retro aesthetic."
@@ -4065,7 +4484,10 @@
     "url": "https://ui.nexvyn.dev",
     "name": "Nexvyn UI",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "ui",
+      "components"
+    ],
     "desc": {
       "es": "Componentes pulidos e integrables para interfaces digitales.",
       "en": "Polished drop-in components for digital interfaces."
@@ -4134,7 +4556,11 @@
     "url": "https://www.sacred.computer",
     "name": "SRCL",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "terminal",
+      "retro",
+      "dos"
+    ],
     "desc": {
       "es": "Kit de componentes de terminal estilo DOS retro.",
       "en": "Retro DOS-style terminal component kit."
@@ -4174,7 +4600,11 @@
     "url": "https://www.interior.dev",
     "name": "interior.dev",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "micro-interactions",
+      "click",
+      "animation"
+    ],
     "desc": {
       "es": "Micro-interacciones afinadas para respuesta al clic.",
       "en": "Micro-interactions finely tuned for click responsiveness."
@@ -4186,7 +4616,11 @@
     "url": "https://soundcn.xyz",
     "name": "soundcn",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "sound",
+      "effects",
+      "copy paste"
+    ],
     "desc": {
       "es": "Colección de efectos de sonido UI para copiar y pegar.",
       "en": "Collection of copy-paste UI sound effects."
@@ -4214,7 +4648,11 @@
     "url": "https://spell.sh",
     "name": "Spell UI",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "interactive",
+      "components",
+      "ui"
+    ],
     "desc": {
       "es": "Componentes interactivos de alto acabado para apps modernas.",
       "en": "High-craft interactive components for modern apps."
@@ -4241,7 +4679,11 @@
     "url": "https://www.devl.dev",
     "name": "devl",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "experimental",
+      "minimalist",
+      "components"
+    ],
     "desc": {
       "es": "Componentes UI experimentales minimalistas para web.",
       "en": "Minimalist experimental UI components for web."
@@ -4312,7 +4754,11 @@
     "url": "https://www.evilbuttons.com",
     "name": "Evil Buttons",
     "category": "components",
-    "tags": [],
+    "tags": [
+      "buttons",
+      "interactive",
+      "tactile"
+    ],
     "desc": {
       "es": "Botones interactivos y táctiles.",
       "en": "Interactive and tactile button components."
@@ -4553,7 +4999,11 @@
     "url": "https://claude.com/claude-code/",
     "name": "Claude Code",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai",
+      "agents",
+      "terminal"
+    ],
     "desc": {
       "es": "Herramienta de codificación con agentes dentro de tu terminal.",
       "en": "Agentic coding tool inside your terminal."
@@ -4579,7 +5029,11 @@
     "url": "https://zed.dev",
     "name": "Zed",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "editor",
+      "rust",
+      "fast"
+    ],
     "desc": {
       "es": "Editor de código de alto rendimiento pensado para baja latencia.",
       "en": "High-performance code editor built for low latency."
@@ -4606,7 +5060,11 @@
     "url": "https://bolt.new",
     "name": "Bolt.new",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai",
+      "browser",
+      "full-stack"
+    ],
     "desc": {
       "es": "Sandbox de desarrollo en el navegador para aplicaciones full-stack.",
       "en": "In-browser development sandbox for full-stack applications."
@@ -4618,7 +5076,11 @@
     "url": "https://vite.dev",
     "name": "Vite",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "build tool",
+      "frontend",
+      "open source"
+    ],
     "desc": {
       "es": "Herramienta de build y desarrollo frontend ultrarrápida.",
       "en": "Blazing fast frontend build and dev tool."
@@ -4630,7 +5092,11 @@
     "url": "https://biomejs.dev",
     "name": "Biome",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "linter",
+      "formatter",
+      "rust"
+    ],
     "desc": {
       "es": "Formateador y linter de código basado en Rust.",
       "en": "Fast Rust-based formatter and code linter."
@@ -4642,7 +5108,11 @@
     "url": "https://playwright.dev",
     "name": "Playwright",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "testing",
+      "e2e",
+      "automation"
+    ],
     "desc": {
       "es": "Automatización de navegador y tests end-to-end fiables.",
       "en": "Reliable browser automation and end-to-end testing."
@@ -4654,7 +5124,10 @@
     "url": "https://www.buildertools.sh",
     "name": "BuilderTools",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "devtools",
+      "tools"
+    ],
     "desc": {
       "es": "Herramientas de desarrollo enfocadas en lanzar software.",
       "en": "Focused developer tools for shipping software."
@@ -4680,7 +5153,11 @@
     "url": "https://www.better-t-stack.dev",
     "name": "Better T Stack",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "typescript",
+      "full-stack",
+      "cli"
+    ],
     "desc": {
       "es": "CLI que genera estructuras full-stack TypeScript modernas.",
       "en": "CLI scaffolding modern full-stack TypeScript setups."
@@ -4692,7 +5169,11 @@
     "url": "https://alumnium.ai",
     "name": "Alumnium",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "testing",
+      "ai",
+      "e2e"
+    ],
     "desc": {
       "es": "Tests end-to-end en lenguaje natural vía MCP.",
       "en": "Natural-language end-to-end testing via MCP."
@@ -4704,7 +5185,11 @@
     "url": "https://vercel-doctor.com",
     "name": "Vercel Doctor",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "nextjs",
+      "diagnostics",
+      "performance"
+    ],
     "desc": {
       "es": "Herramienta de diagnóstico de cuellos de botella de Next.js.",
       "en": "Diagnostic tool identifying Next.js performance bottlenecks."
@@ -4730,7 +5215,11 @@
     "url": "https://vinext.dev",
     "name": "Vinext",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "nextjs",
+      "vite",
+      "cloudflare"
+    ],
     "desc": {
       "es": "Plugin de Vite que ejecuta Next.js en Cloudflare.",
       "en": "Vite plugin running Next.js on Cloudflare."
@@ -4742,7 +5231,10 @@
     "url": "https://www.evlog.dev",
     "name": "evlog",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "logging",
+      "observability"
+    ],
     "desc": {
       "es": "Framework de logging estructurado para aplicaciones web.",
       "en": "Structured logging framework for web applications."
@@ -4754,7 +5246,11 @@
     "url": "https://audio.raphaelsalaja.com",
     "name": "@web-kits/audio",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "audio",
+      "web api",
+      "library"
+    ],
     "desc": {
       "es": "Biblioteca de sonido declarativa para apps web.",
       "en": "Declarative sound library for web apps."
@@ -4780,7 +5276,11 @@
     "url": "https://umami.is",
     "name": "Umami",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "analytics",
+      "privacy",
+      "open source"
+    ],
     "desc": {
       "es": "Analítica web centrada en privacidad sin banners de cookies.",
       "en": "Privacy-focused web analytics without cookie banners."
@@ -4806,7 +5306,10 @@
     "url": "https://tracwell.app",
     "name": "Tracwell",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "analytics",
+      "tracking"
+    ],
     "desc": {
       "es": "Analítica enfocada en seguimiento de visitantes y conversiones.",
       "en": "Focused analytics tracking visitors and conversions."
@@ -4818,7 +5321,10 @@
     "url": "https://www.dialkit.dev",
     "name": "DialKit",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "devtools",
+      "debug"
+    ],
     "desc": {
       "es": "Barra de herramientas flotante para ajustar parámetros.",
       "en": "Floating interface toolbar for parameter tuning."
@@ -4830,7 +5336,11 @@
     "url": "https://www.drayhq.com",
     "name": "Dray",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai agents",
+      "workspace",
+      "desktop"
+    ],
     "desc": {
       "es": "Workspace unificado en el desktop para gestionar agentes de codificación.",
       "en": "Unified desktop workspace managing coding agents."
@@ -4842,7 +5352,11 @@
     "url": "https://typeui.sh",
     "name": "typeui.sh",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ui",
+      "generator",
+      "typescript"
+    ],
     "desc": {
       "es": "Herramienta CLI que genera componentes UI tipados.",
       "en": "Command-line tool scaffolding typed UI components."
@@ -4854,7 +5368,11 @@
     "url": "https://webclaw.io",
     "name": "Webclaw",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "scraping",
+      "markdown",
+      "converter"
+    ],
     "desc": {
       "es": "Convierte cualquier página web en markdown estructurado.",
       "en": "Converts any webpage into structured markdown."
@@ -4866,7 +5384,11 @@
     "url": "https://ghostex.dev",
     "name": "Ghostex",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai agents",
+      "sessions",
+      "automation"
+    ],
     "desc": {
       "es": "Orquesta múltiples sesiones de agentes de codificación en segundo plano.",
       "en": "Orchestrates multiple background coding agent sessions."
@@ -4878,7 +5400,11 @@
     "url": "https://is-agentic.com",
     "name": "is-agentic.com",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai",
+      "seo",
+      "crawler"
+    ],
     "desc": {
       "es": "Puntúa qué tan bien los sitios soportan a los rastreadores.",
       "en": "Scores how effectively websites support crawlers."
@@ -4890,7 +5416,11 @@
     "url": "https://herdr.dev",
     "name": "Herdr",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai agents",
+      "runner",
+      "distributed"
+    ],
     "desc": {
       "es": "Runner distribuido que gestiona trabajos de agentes de codificación.",
       "en": "Distributed runner managing coding agent jobs."
@@ -4902,7 +5432,11 @@
     "url": "https://soubi.vercel.app",
     "name": "Soubi",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai",
+      "compiler",
+      "skills"
+    ],
     "desc": {
       "es": "Compilador que transforma definiciones de skills de agentes.",
       "en": "Compiler transforming agent skill definitions."
@@ -4943,7 +5477,11 @@
     "url": "https://integrations.sh",
     "name": "integrations.sh",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai agents",
+      "api",
+      "specs"
+    ],
     "desc": {
       "es": "Repositorio de especificaciones de integración de APIs para agentes.",
       "en": "Repository of API integration specifications for agents."
@@ -4955,7 +5493,11 @@
     "url": "https://fx.sh",
     "name": "fx",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "cli",
+      "json",
+      "zig"
+    ],
     "desc": {
       "es": "CLI de codificación de alto rendimiento escrita en Zig.",
       "en": "High-performance coding agent CLI in Zig."
@@ -4981,7 +5523,11 @@
     "url": "https://www.foglamp.dev",
     "name": "Foglamp",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "observability",
+      "monitoring",
+      "costs"
+    ],
     "desc": {
       "es": "Herramienta de observabilidad que monitorea latencia y costos.",
       "en": "Observability tool monitoring latency and costs."
@@ -4993,7 +5539,11 @@
     "url": "https://distill.id",
     "name": "Distill",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai",
+      "notes",
+      "research"
+    ],
     "desc": {
       "es": "Agente inteligente que organiza notas de investigación dispersas.",
       "en": "Intelligent agent organizing scattered research notes."
@@ -5005,7 +5555,11 @@
     "url": "https://www.agentation.com",
     "name": "Agentation",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai",
+      "annotations",
+      "context"
+    ],
     "desc": {
       "es": "Convierte anotaciones de UI en pantalla en contexto.",
       "en": "Converts on-screen UI annotations into context."
@@ -5046,7 +5600,11 @@
     "url": "https://skillsync.com",
     "name": "SkillSync",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai agents",
+      "context",
+      "editors"
+    ],
     "desc": {
       "es": "Sincroniza el contexto de los agentes entre editores de código.",
       "en": "Synchronizes agent context across code editors."
@@ -5072,7 +5630,11 @@
     "url": "https://capacity.so",
     "name": "Capacity",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai",
+      "full-stack",
+      "natural language"
+    ],
     "desc": {
       "es": "Workspace en lenguaje natural que genera apps full-stack.",
       "en": "Natural language workspace generating full-stack apps."
@@ -5084,7 +5646,11 @@
     "url": "https://lafys.com",
     "name": "Lafys",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "ai",
+      "ui",
+      "generator"
+    ],
     "desc": {
       "es": "Generador de componentes UI dirigido por prompts.",
       "en": "Prompt-driven UI component generator for builders."
@@ -5096,7 +5662,11 @@
     "url": "https://efecto.app",
     "name": "Efecto",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "canvas",
+      "mcp",
+      "ai"
+    ],
     "desc": {
       "es": "Lienzo web visual agent-first con MCP.",
       "en": "Agent-first visual web canvas with MCP."
@@ -5165,7 +5735,11 @@
     "url": "https://vercel.com",
     "name": "Vercel",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "deploy",
+      "hosting",
+      "nextjs"
+    ],
     "desc": {
       "es": "Plataforma cloud para desplegar aplicaciones Next.js.",
       "en": "Cloud platform for deploying Next.js applications."
@@ -5177,7 +5751,11 @@
     "url": "https://developers.cloudflare.com/workers/",
     "name": "Cloudflare",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "edge",
+      "workers",
+      "serverless"
+    ],
     "desc": {
       "es": "Red global de edge que ejecuta Workers serverless.",
       "en": "Global edge network running serverless Workers."
@@ -5189,7 +5767,11 @@
     "url": "https://netlify.com",
     "name": "Netlify",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "deploy",
+      "hosting",
+      "ci"
+    ],
     "desc": {
       "es": "Plataforma web con pipelines de despliegue continuo.",
       "en": "Web platform providing continuous deployment pipelines."
@@ -5201,7 +5783,11 @@
     "url": "https://railway.app",
     "name": "Railway",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "deploy",
+      "databases",
+      "platform"
+    ],
     "desc": {
       "es": "Plataforma de infraestructura simplificada para desplegar bases de datos.",
       "en": "Simplified infrastructure platform for deploying databases."
@@ -5213,7 +5799,11 @@
     "url": "https://fly.io",
     "name": "Fly.io",
     "category": "build",
-    "tags": [],
+    "tags": [
+      "deploy",
+      "docker",
+      "containers"
+    ],
     "desc": {
       "es": "Ejecuta contenedores Docker cerca de los usuarios.",
       "en": "Runs Docker containers close to users."
@@ -5225,7 +5815,11 @@
     "url": "https://fontshare.com",
     "name": "Fontshare",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "fonts",
+      "free",
+      "commercial"
+    ],
     "desc": {
       "es": "Fuentes profesionales de alta calidad, gratis para uso comercial.",
       "en": "High-quality professional fonts free for commercial use."
@@ -5237,7 +5831,11 @@
     "url": "https://klim.co.nz",
     "name": "Klim",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "typography",
+      "foundry",
+      "web fonts"
+    ],
     "desc": {
       "es": "Fundición tipográfica que crea tipografías web contemporáneas.",
       "en": "Type foundry creating contemporary web typefaces."
@@ -5249,7 +5847,11 @@
     "url": "https://wakamaifondue.com",
     "name": "Wakamai Fondue",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "fonts",
+      "inspector",
+      "tool"
+    ],
     "desc": {
       "es": "Herramienta para inspeccionar archivos y funciones de fuentes.",
       "en": "Tool inspecting font files and features."
@@ -5261,7 +5863,11 @@
     "url": "https://utopia.fyi",
     "name": "Utopia",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "fluid type",
+      "clamp",
+      "calculator"
+    ],
     "desc": {
       "es": "Calculadora de tipografía fluida que genera CSS clamp.",
       "en": "Fluid typography calculator generating CSS clamp."
@@ -5287,7 +5893,11 @@
     "url": "https://departuremono.com",
     "name": "Departure Mono",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "pixel",
+      "monospace",
+      "terminal"
+    ],
     "desc": {
       "es": "Tipografía monoespaciada pixel diseñada para terminales.",
       "en": "Pixel monospace typeface designed for terminals."
@@ -5299,7 +5909,11 @@
     "url": "https://oklch.com",
     "name": "OKLCH",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "color",
+      "picker",
+      "perceptual"
+    ],
     "desc": {
       "es": "Selector de color que usa un espacio perceptualmente uniforme.",
       "en": "Color picker using perceptually uniform space."
@@ -5311,7 +5925,11 @@
     "url": "https://color.review",
     "name": "Color.review",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "contrast",
+      "palettes",
+      "accessible"
+    ],
     "desc": {
       "es": "Verificador de contraste para diseñar paletas accesibles.",
       "en": "Contrast checker helping design accessible palettes."
@@ -5323,7 +5941,11 @@
     "url": "https://huetone.ardov.me",
     "name": "Huetone",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "palettes",
+      "contrast",
+      "accessible"
+    ],
     "desc": {
       "es": "Generador de paletas accesibles que equilibra ratios de contraste.",
       "en": "Accessible palette generator balancing contrast ratios."
@@ -5335,7 +5957,11 @@
     "url": "https://www.myndex.com/APCA/",
     "name": "APCA",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "contrast",
+      "algorithm",
+      "perception"
+    ],
     "desc": {
       "es": "Algoritmo de contraste moderno que imita la percepción visual.",
       "en": "Modern contrast algorithm matching visual perception."
@@ -5347,7 +5973,11 @@
     "url": "https://www.ramps.studio",
     "name": "Ramps",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "tokens",
+      "oklch",
+      "design tokens"
+    ],
     "desc": {
       "es": "Herramienta de tokens de diseño que genera rampas OKLCH.",
       "en": "Design token tool generating OKLCH ramps."
@@ -5359,7 +5989,11 @@
     "url": "https://threejs.org",
     "name": "Three.js",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "3d",
+      "webgl",
+      "javascript"
+    ],
     "desc": {
       "es": "Biblioteca 3D en JavaScript que renderiza escenas WebGL.",
       "en": "JavaScript 3D library rendering WebGL scenes."
@@ -5414,7 +6048,11 @@
     "url": "https://gltf.report",
     "name": "gltf.report",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "gltf",
+      "3d",
+      "optimizer"
+    ],
     "desc": {
       "es": "Optimizador web para archivos glTF 3D.",
       "en": "Web-based optimizer for 3D glTF files."
@@ -5426,7 +6064,11 @@
     "url": "https://polyhaven.com",
     "name": "Poly Haven",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "textures",
+      "cc0",
+      "assets"
+    ],
     "desc": {
       "es": "Biblioteca pública de texturas con licencia CC0.",
       "en": "Public asset library offering CC0 textures."
@@ -5438,7 +6080,11 @@
     "url": "https://thebookofshaders.com",
     "name": "Book of Shaders",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "shaders",
+      "glsl",
+      "tutorial"
+    ],
     "desc": {
       "es": "Guía interactiva para dominar los fragment shaders.",
       "en": "Interactive guide to mastering fragment shaders."
@@ -5450,7 +6096,11 @@
     "url": "https://compute.toys",
     "name": "compute.toys",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "compute shaders",
+      "wgsl",
+      "sandbox"
+    ],
     "desc": {
       "es": "Sandbox para crear compute shaders WGSL.",
       "en": "Sandbox for authoring WGSL compute shaders."
@@ -5462,7 +6112,11 @@
     "url": "https://shaderfrog.com",
     "name": "Shaderfrog",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "shaders",
+      "nodes",
+      "editor"
+    ],
     "desc": {
       "es": "Editor visual por nodos para componer shaders.",
       "en": "Visual node-based editor for composing shaders."
@@ -5488,7 +6142,11 @@
     "url": "https://shaders.paper.design",
     "name": "Paper Shaders",
     "category": "visuals",
-    "tags": [],
+    "tags": [
+      "shaders",
+      "dependencies",
+      "ready"
+    ],
     "desc": {
       "es": "Shaders sin dependencias listos para importar.",
       "en": "Zero-dependency shaders ready to import."
@@ -5871,7 +6529,11 @@
     "url": "https://inkword.app",
     "name": "Inkword",
     "category": "icons",
-    "tags": [],
+    "tags": [
+      "illustration",
+      "word",
+      "generator"
+    ],
     "desc": {
       "es": "Convierte una palabra en la ilustración que le corresponde.",
       "en": "Turns a single word into a matching illustration."
@@ -5897,7 +6559,11 @@
     "url": "https://regexr.com",
     "name": "RegExr",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "regex",
+      "sandbox",
+      "testing"
+    ],
     "desc": {
       "es": "Sandbox interactivo para probar expresiones regulares.",
       "en": "Interactive sandbox for testing regular expressions."
@@ -5909,7 +6575,11 @@
     "url": "https://squoosh.app",
     "name": "Squoosh",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "images",
+      "compression",
+      "browser"
+    ],
     "desc": {
       "es": "Compresión de imágenes en el navegador con comparaciones visuales.",
       "en": "Browser image compression with visual comparisons."
@@ -5935,7 +6605,11 @@
     "url": "https://ui.camera",
     "name": "ui.camera",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "mockups",
+      "3d",
+      "software"
+    ],
     "desc": {
       "es": "Mockups 3D y puesta en escena de escenas para software.",
       "en": "3D mockups and scene staging for software."
@@ -5947,7 +6621,11 @@
     "url": "https://ray.so",
     "name": "Ray.so",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "code",
+      "screenshots",
+      "shareable"
+    ],
     "desc": {
       "es": "Convierte snippets de código en capturas compartibles.",
       "en": "Turn code snippets into shareable screenshots."
@@ -5959,7 +6637,11 @@
     "url": "https://transform.tools",
     "name": "Transform",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "converter",
+      "json",
+      "types"
+    ],
     "desc": {
       "es": "Convertidor de código políglota para JSON y tipos.",
       "en": "Polyglot code converter for JSON and types."
@@ -5971,7 +6653,11 @@
     "url": "https://www.playgrnd.tools",
     "name": "Playgrnd",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "tools",
+      "offline",
+      "creative"
+    ],
     "desc": {
       "es": "Suite de herramientas creativas offline en el navegador.",
       "en": "Suite of browser-based offline creative tools."
@@ -5998,7 +6684,11 @@
     "url": "https://www.ogfolio.com",
     "name": "OGFolio",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "og",
+      "preview",
+      "inspector"
+    ],
     "desc": {
       "es": "Inspecciona y previsualiza tarjetas Open Graph.",
       "en": "Inspect and preview Open Graph social cards."
@@ -6010,7 +6700,11 @@
     "url": "https://dotforge.vercel.app",
     "name": "DotForge",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "dither",
+      "effects",
+      "real-time"
+    ],
     "desc": {
       "es": "Generador de efectos de tramado en tiempo real para web.",
       "en": "Real-time dither effect generator for web."
@@ -6022,7 +6716,11 @@
     "url": "https://asciinator.app",
     "name": "ASCIInator",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "ascii",
+      "images",
+      "converter"
+    ],
     "desc": {
       "es": "Utilidad que convierte imágenes en arte ASCII.",
       "en": "Browser utility converting images into ASCII art."
@@ -6034,7 +6732,11 @@
     "url": "https://vessa.design",
     "name": "Vessa",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "brand",
+      "guides",
+      "pages"
+    ],
     "desc": {
       "es": "Publica guías de marca como páginas vivas.",
       "en": "Publish brand guidelines as live pages."
@@ -6061,7 +6763,11 @@
     "url": "https://www.designminis.com",
     "name": "Design Minis",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "micro tools",
+      "scales",
+      "design"
+    ],
     "desc": {
       "es": "Suite de micro herramientas y escalas de diseño.",
       "en": "Suite of micro design tools and scales."
@@ -6073,7 +6779,11 @@
     "url": "https://ascii.krackeddevs.com",
     "name": "ASCII (Kracked Devs)",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "ascii",
+      "text",
+      "quick"
+    ],
     "desc": {
       "es": "Herramienta rápida que convierte texto en arte ASCII.",
       "en": "Fast tool converting text into ASCII art."
@@ -6085,7 +6795,11 @@
     "url": "https://literate-enigma-snowy.vercel.app",
     "name": "Dither Lab",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "dither",
+      "filters",
+      "vintage"
+    ],
     "desc": {
       "es": "Aplica filtros de tramado vintage a fotografías.",
       "en": "Applies vintage dithering filters to photographs."
@@ -6111,7 +6825,11 @@
     "url": "https://www.tooooools.app",
     "name": "Tooooools",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "dither",
+      "pixelate",
+      "images"
+    ],
     "desc": {
       "es": "Utilidades en el navegador para tramar y pixelar imágenes.",
       "en": "In-browser utilities to dither and pixelate images."
@@ -6123,7 +6841,11 @@
     "url": "https://screan.app",
     "name": "Screan",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "mockups",
+      "app store",
+      "screenshots"
+    ],
     "desc": {
       "es": "Crea mockups de capturas promocionales para el App Store.",
       "en": "Create promotional App Store screenshot mockups."
@@ -6135,7 +6857,11 @@
     "url": "https://postspark.app",
     "name": "PostSpark",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "screenshots",
+      "social",
+      "formatting"
+    ],
     "desc": {
       "es": "Da formato a capturas con fondos sociales limpios.",
       "en": "Format screenshots with clean social backgrounds."
@@ -6147,7 +6873,11 @@
     "url": "https://mesurer.dev",
     "name": "Mesurer",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "spacing",
+      "pixels",
+      "on-screen"
+    ],
     "desc": {
       "es": "Herramienta en pantalla que verifica el espaciado en píxeles.",
       "en": "On-screen tool checking website pixel spacing."
@@ -6159,7 +6889,11 @@
     "url": "https://render-labs.evlog.cloud",
     "name": "Render Labs",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "render",
+      "images",
+      "tool"
+    ],
     "desc": {
       "es": "Herramienta de renderizado de imágenes del equipo evlog.",
       "en": "Image rendering tool from evlog team."
@@ -6185,7 +6919,11 @@
     "url": "https://corne.rs",
     "name": "Corne",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "keyboard",
+      "documentation",
+      "mechanical"
+    ],
     "desc": {
       "es": "Documentación del teclado mecánico dividido Corne.",
       "en": "Documentation for the Corne split keyboard."
@@ -6197,7 +6935,11 @@
     "url": "https://www.shiori.sh",
     "name": "Shiori",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "bookmarks",
+      "cli",
+      "raycast"
+    ],
     "desc": {
       "es": "Gestor de marcadores con CLI y soporte de Raycast.",
       "en": "Bookmark manager with CLI and Raycast support."
@@ -6280,7 +7022,11 @@
     "url": "https://www.screenshot-studio.com",
     "name": "Screenshot Studio",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "mockups",
+      "3d",
+      "screenshots"
+    ],
     "desc": {
       "es": "Enmarca capturas en mockups 3D realistas.",
       "en": "Frames screenshots inside realistic 3D mockups."
@@ -6292,7 +7038,11 @@
     "url": "https://letsreplay.co",
     "name": "Replay",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "session replay",
+      "recording",
+      "web"
+    ],
     "desc": {
       "es": "Reproducción de sesiones y grabación de visitantes para sitios web.",
       "en": "Session replay and visitor recording for websites."
@@ -6304,7 +7054,11 @@
     "url": "https://raycast.com",
     "name": "Raycast",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "launcher",
+      "desktop",
+      "extensible"
+    ],
     "desc": {
       "es": "Lanzador de escritorio extensible que reemplaza a Spotlight.",
       "en": "Extendable desktop launcher replacing Spotlight."
@@ -6316,7 +7070,11 @@
     "url": "https://ghostty.org",
     "name": "Ghostty",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "terminal",
+      "gpu",
+      "fast"
+    ],
     "desc": {
       "es": "Emulador de terminal rápido acelerado por GPU.",
       "en": "Fast GPU-accelerated terminal emulator for developers."
@@ -6342,7 +7100,11 @@
     "url": "https://cleanshot.com",
     "name": "CleanShot X",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "screenshot",
+      "recording",
+      "mac"
+    ],
     "desc": {
       "es": "Herramienta definitiva de captura y grabación de pantalla.",
       "en": "Ultimate screen capture and recording utility."
@@ -6368,7 +7130,11 @@
     "url": "https://localsend.org",
     "name": "LocalSend",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "files",
+      "wifi",
+      "sharing"
+    ],
     "desc": {
       "es": "Comparte archivos con seguridad por la Wi-Fi local.",
       "en": "Share files securely across local Wi-Fi networks."
@@ -6380,7 +7146,11 @@
     "url": "https://rioterm.com/canario/",
     "name": "Canario",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "terminal",
+      "panes",
+      "sessions"
+    ],
     "desc": {
       "es": "Terminal que organiza sesiones CLI en paneles.",
       "en": "Terminal organizing CLI sessions into panes."
@@ -6392,7 +7162,11 @@
     "url": "https://cooldock.app",
     "name": "CoolDock",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "dock",
+      "widgets",
+      "monitoring"
+    ],
     "desc": {
       "es": "Dock secundario con widgets de monitoreo de escritorio.",
       "en": "Secondary dock supporting desktop monitoring widgets."
@@ -6404,7 +7178,11 @@
     "url": "https://supaste.com",
     "name": "Supaste",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "clipboard",
+      "history",
+      "mac"
+    ],
     "desc": {
       "es": "Gestor de portapapeles e historial de capturas para Mac.",
       "en": "Clipboard manager and screenshot history for Mac."
@@ -6416,7 +7194,11 @@
     "url": "https://runey.app",
     "name": "Runey",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "invoicing",
+      "clients",
+      "freelance"
+    ],
     "desc": {
       "es": "App de facturación y seguimiento de clientes para freelancers.",
       "en": "Invoicing and client tracking app for freelancers."
@@ -6428,7 +7210,11 @@
     "url": "https://revone.app",
     "name": "Revone",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "revenue",
+      "dashboard",
+      "payments"
+    ],
     "desc": {
       "es": "Dashboard de ingresos unificado que agrega métricas de pagos.",
       "en": "Unified revenue dashboard aggregating payment metrics."
@@ -6440,7 +7226,11 @@
     "url": "https://zen-browser.app",
     "name": "Zen Browser",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "browser",
+      "tabs",
+      "focus"
+    ],
     "desc": {
       "es": "Fork de Firefox con pestañas verticales y modo foco.",
       "en": "Firefox fork with vertical tabs and focus."
@@ -6452,7 +7242,11 @@
     "url": "https://screen.studio",
     "name": "Screen Studio",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "recording",
+      "zoom",
+      "demos"
+    ],
     "desc": {
       "es": "Grabador de pantalla que añade zooms de cámara automáticamente.",
       "en": "Screen recorder adding camera zooms automatically."
@@ -6522,7 +7316,11 @@
     "url": "https://slantit.app",
     "name": "Slant It",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "mockups",
+      "3d",
+      "screenshots"
+    ],
     "desc": {
       "es": "Convierte capturas planas en mockups 3D.",
       "en": "Transforms flat captures into 3D mockups."
@@ -6549,7 +7347,11 @@
     "url": "https://www.bettershot.site",
     "name": "BetterShot",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "recording",
+      "cursor",
+      "subtitles"
+    ],
     "desc": {
       "es": "Grabador de pantalla con zoom de cursor y subtítulos.",
       "en": "Screen recorder featuring cursor zoom and captions."
@@ -6561,7 +7363,11 @@
     "url": "https://recordly.dev",
     "name": "Recordly",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "recording",
+      "demos",
+      "developer"
+    ],
     "desc": {
       "es": "Grabador de pantalla para demos de desarrollador pulidas.",
       "en": "Screen recording tool for polished developer demos."
@@ -6573,7 +7379,11 @@
     "url": "https://cursorful.com",
     "name": "Cursorful",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "recording",
+      "cursor",
+      "follow"
+    ],
     "desc": {
       "es": "Grabador de pantalla que sigue el cursor automáticamente.",
       "en": "Screen recorder that automatically tracks cursor."
@@ -6585,7 +7395,11 @@
     "url": "https://tokokino.com",
     "name": "Tokokino",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "editor",
+      "device frames",
+      "mockups"
+    ],
     "desc": {
       "es": "Editor en el navegador para encuadre de dispositivos y mockups.",
       "en": "In-browser editor for device framing and mockups."
@@ -6611,7 +7425,11 @@
     "url": "https://excalidraw.com",
     "name": "Excalidraw",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "whiteboard",
+      "collaborative",
+      "sketch"
+    ],
     "desc": {
       "es": "Pizarra colaborativa con estética de boceto a mano.",
       "en": "Collaborative whiteboard with hand-drawn sketch aesthetic."
@@ -6623,7 +7441,11 @@
     "url": "https://obsidian.md",
     "name": "Obsidian",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "notes",
+      "markdown",
+      "local-first"
+    ],
     "desc": {
       "es": "Base de conocimiento Markdown local-first con grafos.",
       "en": "Local-first Markdown knowledge base with graphs."
@@ -6635,11 +7457,31 @@
     "url": "https://linear.app",
     "name": "Linear",
     "category": "utilities",
-    "tags": [],
+    "tags": [
+      "project management",
+      "issues",
+      "fast"
+    ],
     "desc": {
       "es": "Software de gestión de proyectos que marca el estándar de velocidad.",
       "en": "Project management software setting speed standards."
     },
     "addedAt": "2026-10-08T22:13:02.792Z"
+  },
+  {
+    "id": "morphin",
+    "url": "https://morphin.dev/",
+    "name": "morphin",
+    "category": "inspiration",
+    "tags": [
+      "animations",
+      "interactions",
+      "curated"
+    ],
+    "desc": {
+      "es": "Interfaces, interacciones y animaciones seleccionadas cuidadosamente de sitios web, aplicaciones y paneles en funcionamiento.",
+      "en": "Handpicked interfaces, interactions and motionfrom live websites, apps and dashboards."
+    },
+    "addedAt": "2026-10-10T23:31:17.260Z"
   }
 ]
